@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (GO).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/yaml-linter-v240.git
+git clone https://github.com/VarshuAi/yaml-linter-v240.git
 cd yaml-linter-v240
 ```
 Run the master script or compile the executable entry point.
