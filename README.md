@@ -13,13 +13,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier%20New&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20yaml-linter-v240%20%F0%9F%9A%80;%3E%20Built%20using%20Go%20%7C%20Optimized%20%26%20Secure;%3E%20Validates%20syntax%20indentation%20models%20in%20Y...)](https://github.com/VarshuAi/yaml-linter-v240)
+<a href="https://github.com/VarshuAi/yaml-linter-v240"><img src="https://readme-typing-svg.demolab.com?font=Courier%20New&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20yaml-linter-v240%20%F0%9F%9A%80;%3E%20Built%20using%20Go%20%7C%20Optimized%20%26%20Secure;%3E%20Validates%20syntax%20indentation%20models%20in%20Y..." alt="Typing SVG"/></a>
 
 <br/>
 
-![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
-![Language](https://img.shields.io/badge/Go-Tech-00CC66?style=for-the-badge&logo=go&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Version"/>
+<img src="https://img.shields.io/badge/Go-Tech-00CC66?style=for-the-badge&logo=go&logoColor=black" alt="Language"/>
+<img src="https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001A0D,50:002A15,75:001A0D,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
 
@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Validates syntax indentation models in YAML files. [Variant 240 using GO with Glassmorphism theme]  ---
+  Validates syntax indentation models in YAML files. [Variant 240 using GO with Glassmorphism theme]
 primary_tech: Go
 ```
 
@@ -46,7 +46,7 @@ primary_tech: Go
 
 <div align="center">
 <br>
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=VarshuAi&repo=yaml-linter-v240&theme=dark&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=00CC66)](https://github.com/VarshuAi/yaml-linter-v240)
+<a href="https://github.com/VarshuAi/yaml-linter-v240"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VarshuAi&repo=yaml-linter-v240&theme=dark&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=00CC66" alt="Repo Stats"/></a>
 <br>
 </div>
 
@@ -68,16 +68,10 @@ primary_tech: Go
 <samp>&nbsp;COMMANDS & USAGE</samp>
 </h2>
 
-### Requirements
-Ensure you have the required runtime environment installed (GO).
-
-### Execution
-Clone the repository and run:
 ```bash
-git clone https://github.com/VarshuAi/yaml-linter-v240.git
-cd yaml-linter-v240
+# Compile and execute
+go run main.go
 ```
-Run the master script or compile the executable entry point.
 
 <!-- ============================== TECH STACK ============================== -->
 
@@ -134,12 +128,12 @@ yaml-linter-v240/
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier%20New&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=Courier%20New&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite." alt="Typing SVG"/></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
-[![Repo](https://img.shields.io/badge/yaml-linter-v240-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/yaml-linter-v240)
+<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/></a>
+<a href="https://github.com/VarshuAi/yaml-linter-v240"><img src="https://img.shields.io/badge/yaml-linter-v240-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black" alt="Repository"/></a>
 
 <br/>
 
