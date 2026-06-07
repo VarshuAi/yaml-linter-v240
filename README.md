@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Validates syntax indentation models in YAML files. [Variant 240 using GO with Glassmorphism theme]
+  name: yaml-linter-v240 version: 1.0 type: Repository author: VarshuAi description: >   Validates syntax indentation models in YAML files. [Variant 240 using GO with Glassmorphism theme] primary_tech: Go
 primary_tech: Go
 ```
 
